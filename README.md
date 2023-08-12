@@ -12,3 +12,6 @@ to install SeDuMi.
 
 The file `MinVolEllipsoid.m` is the function that solves the MVEE problem by SeDuMi,
 the file `Khachiyan.m` is the function that solves the MVEE problem by Khachiyan's algorithm iteratively, and the file `MVEE_SeDuMi.m` and `MVEE_Khachiyan.m` are the scripts that demo the two methods respectively for 3-dimensional data and plot the results.
+
+## Acknowledgement
+We would like to thank Professor [Jiawang Nie](https://mathweb.ucsd.edu/~njw/) for his guidance and support throughout the project and the composition of the academic report. If you are intersted in optimization, please check out Professor Nie's new book "Moment and Polynomial Optimization" at https://mathweb.ucsd.edu/~njw/bkmposiam23.html.
